@@ -1,0 +1,2 @@
+clinica-sorriso-api
+Sistema de gerenciamento para a clínica odontológica Sorriso Metálico. A aplicação permite cadastrar pacientes, CPF, dentistas responsáveis e realizar o agendamento de consultas. O sistema possui classificação de pacientes VIP, permitindo que somente eles realizem agendamentos aos sábados pela manhã. Também conta com cancelamento, remarcação e lembretes de consultas. O projeto possui visual premium nas cores azul-marinho e prata e foi desenvolvido para oferecer rapidez e praticidade.
